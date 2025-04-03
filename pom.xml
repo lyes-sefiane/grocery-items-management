@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.4.2</version>
+        <version>3.4.4</version>
         <relativePath/>
     </parent>
     <groupId>io.github.lyes-sefiane</groupId>
@@ -42,7 +42,8 @@
 
     <properties>
         <java.version>17</java.version>
-        <spring-cloud.version>2024.0.0</spring-cloud.version>
+        <spring-cloud.version>2024.0.1</spring-cloud.version>
+        <webmvc-ui.version>2.8.6</webmvc-ui.version>
     </properties>
 
     <dependencies>
@@ -81,7 +82,7 @@
         <dependency>
             <groupId>org.springdoc</groupId>
             <artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
-            <version>2.8.4</version>
+            <version>${webmvc-ui.version}</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
