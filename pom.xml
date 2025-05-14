@@ -5,7 +5,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.4.4</version>
+        <version>3.4.5</version>
         <relativePath/>
     </parent>
     <groupId>io.github.lyes-sefiane</groupId>
@@ -43,7 +43,7 @@
     <properties>
         <java.version>17</java.version>
         <spring-cloud.version>2024.0.1</spring-cloud.version>
-        <webmvc-ui.version>2.8.6</webmvc-ui.version>
+        <webmvc-ui.version>2.8.8</webmvc-ui.version>
     </properties>
 
     <dependencies>
