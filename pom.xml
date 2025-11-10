@@ -43,7 +43,7 @@
     <properties>
         <java.version>17</java.version>
         <spring-cloud.version>2024.0.1</spring-cloud.version>
-        <webmvc-ui.version>2.8.13</webmvc-ui.version>
+        <webmvc-ui.version>2.8.14</webmvc-ui.version>
     </properties>
 
     <dependencies>
