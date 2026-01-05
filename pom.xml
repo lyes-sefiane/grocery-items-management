@@ -43,7 +43,7 @@
     <properties>
         <java.version>17</java.version>
         <spring-cloud.version>2025.1.0</spring-cloud.version>
-        <webmvc-ui.version>3.0.0</webmvc-ui.version>
+        <webmvc-ui.version>3.0.1</webmvc-ui.version>
         <commons-lang3.version>3.20.0</commons-lang3.version>
     </properties>
 
